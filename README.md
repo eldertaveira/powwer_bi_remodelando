@@ -1,4 +1,4 @@
-# powwer_bi_remodelando
+# power_bi_remodelando
 Desafio DIO
 
 Changing the PBI version according to the challenge. 
